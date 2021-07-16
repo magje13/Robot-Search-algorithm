@@ -1,4 +1,4 @@
-# Search-algorithm
+# Robot-Search-algorithm
 
 The map (see images/Map.png) shows some rooms with red dots. The robot has to find all dots, but has no information about the position of red dots and can't look through walls. The robot must move around the map until every red dot has been visisted.
 
